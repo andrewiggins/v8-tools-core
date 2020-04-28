@@ -5,14 +5,13 @@
   "main": "v8-tools-core.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/thlorenz/v8-tools-core.git"
+    "url": "git://github.com/andrewiggins/v8-tools-core.git"
   },
-  "homepage": "https://github.com/thlorenz/v8-tools-core",
+  "homepage": "https://github.com/andrewiggins/v8-tools-core",
   "keywords": [],
   "author": {
-    "name": "Thorsten Lorenz",
-    "email": "thlorenz@gmx.de",
-    "url": "http://thlorenz.com"
+    "name": "Andre Wiggins",
+    "url": "http://github.com/andrewiggins"
   },
   "license": "MIT",
   "engine": {
