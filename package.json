@@ -14,10 +14,7 @@
     "email": "thlorenz@gmx.de",
     "url": "http://thlorenz.com"
   },
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/thlorenz/v8-tools-core/blob/master/LICENSE"
-  },
+  "license": "MIT",
   "engine": {
     "node": ">=8"
   }
