@@ -1,6 +1,6 @@
 {
   "name": "@andrewiggins/v8-tools-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Core JavaScript modules supporting v8 tools.",
   "main": "v8-tools-core.js",
   "repository": {
